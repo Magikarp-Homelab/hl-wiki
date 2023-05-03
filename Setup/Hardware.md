@@ -2,7 +2,7 @@
 title: Hardware
 description: 
 published: true
-date: 2023-05-03T18:25:40.248Z
+date: 2023-05-03T18:26:01.510Z
 tags: 
 editor: markdown
 dateCreated: 2023-05-03T18:25:40.248Z
@@ -14,7 +14,7 @@ Current Hardware
 Switch: Netgear GS105GE
 * 5 Ports
 
-Jotunheim
+Jotunheim Proxmox Host 1
 * CPU: i5 4460, 3.2GHz 4 Core
 * MoBo: Gigabyte GA-H97-HD3
 	* Chipset H97
@@ -31,7 +31,7 @@ Jotunheim
 	* Sata SSD 250GB
 	* TOTAL: 4.25TB
   
-Nidavellir
+Nidavellir Proxmox Host 2
 * CPU: AMD Ryzen 5 5500, 3.6GHz 6 Core, AM4 Socket
 * MoBo: AsRock B550M Pro4
   * Chipset AMD B550
