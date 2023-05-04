@@ -13,3 +13,4 @@ dateCreated: 2023-05-03T18:20:27.355Z
 * [Software](/setup/software)
 * [Naming](/setup/naming)
 * [Planned Techstack](/setup/planned-techstack)
+* [Network](/setup/network)
