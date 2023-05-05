@@ -13,7 +13,6 @@ dateCreated: 2023-05-02T22:27:48.478Z
 * Migrate docs from github README to wiki
 	* almost done
   * render draw io image
-  * document wiki setup commands from official docs
 
 * ansible
 * jenkins
