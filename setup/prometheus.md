@@ -1,0 +1,27 @@
+---
+title: Prometheus
+description: Prometheus Setup and Guides
+published: true
+date: 2023-05-08T14:37:02.912Z
+tags: 
+editor: markdown
+dateCreated: 2023-05-08T14:37:02.912Z
+---
+
+# Prometheus
+Links:
+* [Prometheus Proxmox VE Exporter](https://github.com/prometheus-pve/prometheus-pve-exporter)
+* [Grafana Proxmox vis Prometheus](https://grafana.com/grafana/dashboards/10347-proxmox-via-prometheus/)
+* [Quick Setup](https://prometheus.io/docs/prometheus/latest/getting_started/)
+
+## Notes
+* Make a start script
+* check options for hosting config file on github
+    * together with grafana dashboards?
+        * export dashboards
+        * import dashboards
+    * make push/pull scripts
+        * shutdown prometheus service
+        * pull git
+        * replace config file
+        * start prometheus
