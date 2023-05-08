@@ -2,10 +2,10 @@
 title: Prometheus
 description: Prometheus Setup and Guides
 published: true
-date: 2023-05-08T14:37:02.912Z
+date: 2023-05-08T21:43:49.827Z
 tags: 
 editor: markdown
-dateCreated: 2023-05-08T14:37:02.912Z
+dateCreated: 2023-05-08T13:03:54.365Z
 ---
 
 # Prometheus
