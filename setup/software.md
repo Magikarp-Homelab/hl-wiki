@@ -2,7 +2,7 @@
 title: Software / Services
 description: 
 published: true
-date: 2023-05-03T18:31:22.445Z
+date: 2023-05-08T21:44:35.229Z
 tags: 
 editor: markdown
 dateCreated: 2023-05-03T18:30:08.833Z
@@ -16,3 +16,8 @@ Current Software / Services used:
 	* Host 2, Nidavellir: 192.168.1.60
 * Wiki.js
 	* Svol on Jotunheim: 192.168.1.12
+
+
+## Links
+[Wiki](/setup/software/wikijs)
+[Prometheus](/setup/software/prometheus)
