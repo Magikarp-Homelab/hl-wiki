@@ -2,10 +2,10 @@
 title: Wiki.js
 description: Wikijs Setup
 published: true
-date: 2023-05-05T10:31:32.912Z
+date: 2023-05-08T21:43:25.074Z
 tags: 
 editor: markdown
-dateCreated: 2023-05-05T10:31:32.912Z
+dateCreated: 2023-05-05T08:36:35.634Z
 ---
 
 # Wiki.js
