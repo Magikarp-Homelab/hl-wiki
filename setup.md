@@ -2,7 +2,7 @@
 title: Setup
 description: 
 published: true
-date: 2023-05-08T20:33:02.511Z
+date: 2023-05-08T21:45:25.573Z
 tags: 
 editor: markdown
 dateCreated: 2023-05-03T18:20:27.355Z
@@ -15,5 +15,3 @@ dateCreated: 2023-05-03T18:20:27.355Z
 * [Planned Techstack](/setup/planned-techstack)
 * [Network](/setup/network)
 * [CT Template](/setup/ct-templates)
-* [Prometheus](/setup/prometheus)
-* [Wiki](/setup/wikijs)
