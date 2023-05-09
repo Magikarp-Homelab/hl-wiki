@@ -14,6 +14,19 @@ Links:
 * [Grafana Proxmox vis Prometheus](https://grafana.com/grafana/dashboards/10347-proxmox-via-prometheus/)
 * [Quick Setup](https://prometheus.io/docs/prometheus/latest/getting_started/)
 
+## Run
+Start prometheus
+```
+cd /opt/prometheus
+./start.sh
+```
+
+Start prometheus
+```
+cd /opt/prometheus/pve-exporter
+./start.sh
+```
+
 ## Notes
 * Make a start script
 * check options for hosting config file on github
