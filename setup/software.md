@@ -2,7 +2,7 @@
 title: Software / Services
 description: 
 published: true
-date: 2023-05-24T19:58:07.778Z
+date: 2023-05-24T19:59:34.116Z
 tags: 
 editor: markdown
 dateCreated: 2023-05-03T18:30:08.833Z
@@ -27,3 +27,4 @@ Current Software / Services used:
 [Wiki](/setup/software/wikijs)
 [Prometheus](/setup/software/prometheus)
 [Grafana](/setup/software/grafana)
+[MongoDB](/setup/software/mongodb)
