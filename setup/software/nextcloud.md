@@ -2,7 +2,7 @@
 title: NextCloud
 description: 
 published: true
-date: 2023-07-31T23:54:40.907Z
+date: 2023-08-01T14:12:29.853Z
 tags: 
 editor: markdown
 dateCreated: 2023-07-31T23:54:40.907Z
@@ -30,7 +30,12 @@ sudo docker run \
 nextcloud/all-in-one:latest
 ```
 
-Nextcloud secret:
+Nextcloud borg password:
 ```
-giving encroach eldest geometric veneering relieve smith reapply
+statue shortlist virus carnival bodacious staff scabby tank
+```
+
+Nextcloud backup encryption:
+```
+dc80ca480639c50fc2355dd26789548d5a099705b60f1755
 ```
