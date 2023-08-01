@@ -2,7 +2,7 @@
 title: Software / Services
 description: 
 published: true
-date: 2023-05-24T19:59:34.116Z
+date: 2023-08-01T14:33:17.329Z
 tags: 
 editor: markdown
 dateCreated: 2023-05-03T18:30:08.833Z
@@ -17,7 +17,9 @@ Current Software / Services used:
 * Wiki.js
 	* Svol on Jotunheim: 192.168.1.12
 * Prometheus & Grafana
-  * Aegir on Jotunheim: 192.168.1.13
+	* Aegir on Jotunheim: 192.168.1.13
+* Nextcloud
+	* Njord on Nidavellir: 192.168.1.61 / magikarp-hl.duckdns.org
 
 * MongoDB
 	* Dumbr on Jotunheim: 192.168.1.20
@@ -28,3 +30,4 @@ Current Software / Services used:
 [Prometheus](/setup/software/prometheus)
 [Grafana](/setup/software/grafana)
 [MongoDB](/setup/software/mongodb)
+[Nextcloud](/setup/software/nextcloud)
