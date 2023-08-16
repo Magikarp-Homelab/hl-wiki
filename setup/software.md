@@ -2,7 +2,7 @@
 title: Software / Services
 description: 
 published: true
-date: 2023-08-01T14:41:34.033Z
+date: 2023-08-16T13:22:39.611Z
 tags: 
 editor: markdown
 dateCreated: 2023-05-03T18:30:08.833Z
@@ -24,6 +24,9 @@ Current Software / Services used:
 * MongoDB
 	* Dumbr on Jotunheim: 192.168.1.20
 
+* Superset
+	* Bragi on Nidavellir: 192.168.1.62
+
 
 ## Wiki Links
 [Wiki](/setup/software/wikijs)
@@ -32,3 +35,4 @@ Current Software / Services used:
 [MongoDB](/setup/software/mongodb)
 [Nextcloud](/setup/software/nextcloud)
 [yt-dlp](/setup/software/yt-dlp)
+[Superset](/setup/software/superset)
